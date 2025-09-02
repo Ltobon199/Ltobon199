@@ -1,7 +1,4 @@
-<!-- Banner con fondo personalizado -->
-<p align="center">
-  <img src="https://i.imgur.com/A5X8wK4.jpeg" alt="banner" width="100%"/>
-</p>
+
 
 # 👋 Hola, soy Luis Tobón
 
