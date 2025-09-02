@@ -1,6 +1,6 @@
 <!-- Banner con fondo personalizado -->
 <p align="center">
-  <img src="https://i.imgur.com/your-background-image.png" alt="banner" width="100%"/>
+  <img src="https://i.imgur.com/A5X8wK4.jpeg" alt="banner" width="100%"/>
 </p>
 
 # 👋 Hola, soy Luis Tobón
@@ -17,5 +17,7 @@
 </p>
 
 ---
+
+📫 Puedes contactarme para colaborar en proyectos o simplemente charlar sobre tecnología.
 
 
