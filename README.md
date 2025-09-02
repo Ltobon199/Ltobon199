@@ -1,3 +1,8 @@
+<!-- Banner con fondo personalizado -->
+<p align="center">
+  <img src="https://i.imgur.com/your-background-image.png" alt="banner" width="100%"/>
+</p>
+
 # 👋 Hola, soy Luis Tobón
 
 💻 Me apasiona el **desarrollo web** y disfruto creando soluciones con código limpio y funcional.
@@ -10,3 +15,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 </p>
+
+---
+
+
